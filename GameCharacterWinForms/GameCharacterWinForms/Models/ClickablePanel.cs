@@ -56,6 +56,13 @@ namespace GameCharacterWinForms.Models
         {
             this.BackColor = _hoverBackColor;
         }
+
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            this.ResumeLayout(false);
+
+        }
     }
 }
 
