@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\OOP\Game\ForestBound\bin\Debug\ForestBound.exe.config
+C:\Users\HP\Desktop\OOP\Game\ForestBound\bin\Debug\ForestBound.exe
+C:\Users\HP\Desktop\OOP\Game\ForestBound\bin\Debug\ForestBound.pdb
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.Form1.resources
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.Properties.Resources.resources
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.exe
+C:\Users\HP\Desktop\OOP\Game\ForestBound\obj\Debug\ForestBound.pdb
