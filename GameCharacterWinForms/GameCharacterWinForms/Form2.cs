@@ -75,9 +75,9 @@ namespace GameCharacterWinForms
                 }
 
                 //txtCharacterDetails.Text = selectedCharacter.ToString();
-                //this.Hide();
-                //Form3 form3 = new Form3();
-                //form3.Show();
+                this.Hide();
+                Form3 form3 = new Form3();
+                form3.Show();
             }
         }
 
